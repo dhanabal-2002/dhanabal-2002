@@ -15,25 +15,76 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ------------------------------------------------
-👋 Hi, I'm Raj Kumar
+# 👋 Hi, I'm Dhanabal
 
-💻 Java Backend Developer
+## 👨‍💻 About Me
+
+🎓 B.Tech Information Technology Graduate
+
+💻 Java Developer & Python Developer
+
+🌱 Currently learning Python and AI Engineering
+
+🚀 Interested in Backend Development, REST APIs, and Cloud Technologies
 
 🎓 B.Tech IT Graduate
 
-🛠 Skills
-✔ Java
-✔ Spring Boot
-✔ MySQL
-✔ Python
-✔ Git
+## 🛠 Skills
 
-📂 Projects
-🍽 Food Reservation System
-🤖 Campus Chatbot
-📚 Student Management System
+### Languages
+- Java
+- Python
+- SQL
 
-📫 Contact
-LinkedIn
-Email
+### Backend
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- REST API
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Maven
+- VS Code
+- IntelliJ IDEA
+
+---
+## 📂 Projects
+
+### 🍽 Food Reservation System
+Spring Boot + MySQL + REST API
+
+### 🤖 Campus Chatbot
+HTML, CSS, JavaScript, PHP, MySQL
+
+### 📚 Student Management System
+Python
+
+### 📞 Contact Book
+Python
+
+### 💰 Expense Tracker
+Python
+
+---
+
+## 🌱 Currently Learning
+
+- Docker
+- FastAPI
+- AI Engineering
+- GitHub Actions
+
+---
+
+## 📫 Contact
+
+Email: your@email.com
+
+LinkedIn:
+https://linkedin.com/in/yourprofile
 ------------------------------------------------
