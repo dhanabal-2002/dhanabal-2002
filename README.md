@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+------------------------------------------------
+👋 Hi, I'm Raj Kumar
+
+💻 Java Backend Developer
+
+🎓 B.Tech IT Graduate
+
+🛠 Skills
+✔ Java
+✔ Spring Boot
+✔ MySQL
+✔ Python
+✔ Git
+
+📂 Projects
+🍽 Food Reservation System
+🤖 Campus Chatbot
+📚 Student Management System
+
+📫 Contact
+LinkedIn
+Email
+------------------------------------------------
