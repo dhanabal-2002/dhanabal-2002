@@ -83,8 +83,8 @@ Python
 
 ## 📫 Contact
 
-Email: your@email.com
+Email: rajnagesh1013@gmail.com
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+[https://linkedin.com](https://www.linkedin.com/in/dhanabal1234/)
 ------------------------------------------------
